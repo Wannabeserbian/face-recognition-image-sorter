@@ -12,7 +12,7 @@ This Python script scans a folder of images and moves images containing a recogn
 ## 🛠️ Prerequisites
 
 - **Python 3**
-- **Required Python libraries:** `\pip install face_recognition pillow`
+- **Required Python libraries:** `pip install face_recognition pillow`
 - **dlib** — (Automatically installed with `face_recognition`, but may require additional system dependencies)
 
 ## ⚡ Usage
