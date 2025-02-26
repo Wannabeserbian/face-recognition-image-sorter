@@ -32,7 +32,7 @@ output_folder = "PHOTOS_OUTPUT_FOLDER_PATH"  # Folder where matching images will
 Execute the script with:
 
 ```bash
-python script.py
+python main.py
 ```
 
 ### 3️⃣ Output
